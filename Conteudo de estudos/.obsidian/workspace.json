@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "0 Glossario/Glossario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Glossario"
             }
           }
         ],
@@ -184,13 +184,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "675d1c7055199a58",
+  "active": "65194a7240976458",
   "lastOpenFiles": [
-    "Redes e infraestrutura/01 Introdução a redes.md",
-    "0 Glossario/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+    "Redes e infraestrutura/TCP IP.md",
     "0 Glossario/Glossario.md",
-    "0 Glossario",
+    "Redes e infraestrutura/01 Introdução a redes.md",
+    "Redes e infraestrutura/TCP",
     "Welcome.md",
+    "0 Glossario/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+    "0 Glossario",
     "Redes e infraestrutura"
   ]
 }
