@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/01 Introdução a redes.md",
+                "file": "Redes e infraestrutura/01 Introdução a redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "01 Introdução a redes"
             }
-          }
-        ]
-      },
-      {
-        "id": "3c4344a0cc99fd5b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d19f95d29f328851",
+            "id": "65194a7240976458",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f64225788567e1f",
+  "active": "675d1c7055199a58",
   "lastOpenFiles": [
+    "Redes e infraestrutura/01 Introdução a redes.md",
+    "0 Glossario/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+    "0 Glossario/Glossario.md",
+    "0 Glossario",
     "Welcome.md",
-    "Redes/01 Introdução a redes.md",
-    "Redes"
+    "Redes e infraestrutura"
   ]
 }
